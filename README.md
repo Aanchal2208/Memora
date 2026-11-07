@@ -221,6 +221,3 @@ There are three phases for this plugin, the **header-filter**, **body-filter** a
 ### Diagram
 <img width="1110" height="307" alt="image" src="https://github.com/user-attachments/assets/aeadcfbd-83b6-448c-9112-c09f732c7f62" />
 
-
-## Contributors
-Designed & Implemented By: j.prakash@neosalpha.com, preesha@neosalpha.com, abhishek.chauhan@neosalpha.com
