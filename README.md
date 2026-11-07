@@ -1,4 +1,4 @@
-# Session History Plugin
+# Memora
 ## Overview 
 While Kong AI Gateway excels at managing, securing, and routing LLM requests across providers, it lacks conversation state persistence. Our Session History Plugin is a multi-plugin solution that maintains conversation history in persistent session objects. This innovative architecture bridges the critical gap by delivering enterprise-grade conversation management with MongoDB storage, intelligent context summarization, and configurable session lifecycles—ultimately enabling true conversational AI at scale.
 
